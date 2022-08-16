@@ -1,3 +1,6 @@
+20220816 修改 Mifare Classic Tool/app/src/main/assets/key-files/std.keys 添加自定义KEY  
+.
+
 MIFARE Classic Tool (MCT)
 =========================
 
